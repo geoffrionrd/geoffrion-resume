@@ -1,1 +1,0 @@
-# geoffrion-resume

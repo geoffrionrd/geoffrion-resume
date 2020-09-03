@@ -19,7 +19,7 @@ Council for International Educational Exchange (CIEE) Open Campus
 Northeastern University  
 *Boston, MA, USA*  
 
-### Work Experience
+## Work Experience
 #### GIS/Landscape Ecology Intern, Summer 2020
 Virginia Department of Conservation and Recreation, Natural Heritage Program  
 *Richmond, VA, USA*

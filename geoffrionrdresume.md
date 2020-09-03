@@ -6,7 +6,9 @@ Aspiring Landscape Architect.
 [Find me on LinkedIn](https://www.linkedin.com/in/rachelgeoffrion/)
 
 ## Summary
-Specific interest in sustainable, functional, and equitable community development through engagement in urban landscape design.
+Specific interest in sustainable, functional, and equitable community development through engagement in urban landscape design. 
+
+Currently completing BS in Community & Regional Planning at Appalachian State University. Pursuing a Masters of Geography in Geographic Information Systems (GIS), and Masters of Landscape Architecture.
 
 ## Education
 #### Bachelors of Community and Regional Planning, 2021

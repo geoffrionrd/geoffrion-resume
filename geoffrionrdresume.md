@@ -27,11 +27,13 @@ Virginia Department of Conservation and Recreation, Natural Heritage Program
 *Richmond, VA, USA*
   * Edit, digitize, and georeference public map projects through ArcMap for recreational access accross the state of Virginia.
   * Coordinate with coworkers to share and edit data. 
+  
 #### Landscape Design Intern, Spring 2019
 Spreeacker e.V.  
 *Berlin, Germany*
   * Create visual content for multiple Landscape Architecture projects and gardens on the site within the larger context of an Urban Renewal District of Berlin.
   * Meet with local community stakeholders and cooperative housing residents.   
+  
 #### Horticultural Volunteer, 2018
 Sarah P. Duke Gardens  
 *Durham, NC, USA*
